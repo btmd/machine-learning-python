@@ -7,8 +7,8 @@ Based on "Machine Learning fuer Softwareentwickler" von Paolo Perrotta, dpunkt.v
 
 ## use venv
 * python -m venv ./venv
-** machine-learning-python/venv/bin/python3
-** machine-learning-python/venv/bin/pip3
+1. machine-learning-python/venv/bin/python3
+2. machine-learning-python/venv/bin/pip3
 
 ## Installation of supporting libraries
 Versions are probably outdated
